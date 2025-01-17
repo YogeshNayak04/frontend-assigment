@@ -1,6 +1,6 @@
 "use client"
 import React, { useState } from 'react';
-import { Search, ArrowUpDown, Share, Download, Trash2, Settings, Sparkles, ChevronLeft, User, Grid, PenTool, Figma, Apple, AppleIcon, Puzzle,  } from 'lucide-react';
+import {  ChevronLeft, User, Grid, Figma, Puzzle,  } from 'lucide-react';
 import { Row, Company } from '../../types';
 import { SearchBar } from './SearchBar';
 import { GridHeader } from './GridHeader';
